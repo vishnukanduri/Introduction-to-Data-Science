@@ -1,3 +1,3 @@
 # Introduction-to-Data-Science
 
-This contains notebooks to help you get started with Data Science.
+Solved many problems related to Census, Olympics, Energy using Data Science Techniques and methods. Also, performed Hypothesis Testing.
